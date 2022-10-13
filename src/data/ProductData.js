@@ -20,7 +20,7 @@ export const ProductData = [
         price: '$13263295,750',
         about: 'yo',
         bgColor: "#32a852",
-        image: 'https://i.pinimg.com/736x/e9/07/ed/e907ede05031b1054730f77996fe2ee2.jpg',
+        image: 'https://i.pinimg.com/564x/e3/97/3c/e3973cd4cd52017e0cc19ec87b782051.jpg',
         alt: 'gt3'
     },
     {
@@ -28,7 +28,7 @@ export const ProductData = [
         price: '$235325,750',
         about: 'ye',
         bgColor:  "#d7de12",
-        image: 'https://i.pinimg.com/736x/e9/07/ed/e907ede05031b1054730f77996fe2ee2.jpg',
+        image: 'https://i.pinimg.com/736x/48/f4/3f/48f43f69896397eaad8c2a1a612d7505.jpg',
         alt: 'gt3'
     }
 ]
