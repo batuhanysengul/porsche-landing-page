@@ -90,3 +90,23 @@
   z-index: 10;
   cursor: pointer;
 }
+
+.right:hover{
+  color: beige;
+  transition: 0.2s ease;
+  transform: scale(1.3);
+}
+
+.left:hover{
+  color: beige;
+  transition: 0.2s ease;
+  transform: scale(1.3);
+}
+
+.right:active{
+  color: black;
+}
+
+.left:active{
+  color: black;
+}

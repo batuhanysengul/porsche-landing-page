@@ -37,8 +37,8 @@ const Hero = ({ slides }) => {
           );
         })}
         <div className="slider-buttons">
-          <FaArrowLeft onClick={prevSlide} />
-          <FaArrowRight onClick={nextSlide} />
+          <FaArrowLeft className="left" onClick={prevSlide} />
+          <FaArrowRight className='right' onClick={nextSlide} />
         </div>
       </div>
     </div>
