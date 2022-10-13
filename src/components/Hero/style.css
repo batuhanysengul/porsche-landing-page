@@ -1,6 +1,6 @@
 .hero-section {
   height: 100vh;
-  max-height: 1100px;
+  width: 100vw;
   position: relative;
   overflow: hidden;
 }
@@ -44,12 +44,13 @@
 
 .hero-img {
   position: absolute;
-  top: 0;
-  left: 0;
-  width: 70vw;
-  height: 70vh;
+  top: 50;
+  left: 150;
+  width: 40vw;
+  height: 60vh;
   object-fit: cover;
 }
+
 
 .hero-content {
   position: relative;
@@ -81,8 +82,11 @@
 
 .slider-buttons {
   position: absolute;
+  gap: 50px;
+  font-size: 50px;
   bottom: 50px;
   right: 50px;
   display: flex;
   z-index: 10;
+  cursor: pointer;
 }
